@@ -10,7 +10,7 @@ Source Files:
 
 # Analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare
 
-# Creatie a scatter plot that shows how the tumor volume changes over time for each treatment
+# Create a scatter plot that shows how the tumor volume changes over time for each treatment
 ![alt text](https://github.com/DanielMJones2005/HW_Unit5_Matplotlib/blob/master/1_TumorResponseTreatment.png)
 
 # Create a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment
